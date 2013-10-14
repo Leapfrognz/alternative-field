@@ -1,0 +1,22 @@
+{
+    "name": "leapfrognz/alternative-field",
+    "description": "Simple dropdown field which displays a text field when 'Other' is selected. Great for Honorifics selects.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "alternative", "field", "forms", "cms"],
+	"license": "BSD-3-Clause",
+    "authors": [
+    {
+        "name": "James Ayers",
+        "email": "james@leapfrogdesign.co.nz"
+    }
+    ],
+    "require":
+    {
+        "silverstripe/framework": "3.*",
+	    "silverstripe/cms": "3.*"
+    },
+    "extra": {
+	"installer-name": "alternative_field"
+    }
+    
+}

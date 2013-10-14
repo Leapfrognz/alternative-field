@@ -1,0 +1,19 @@
+.AlternativeFormField {
+}
+
+.AlternativeFormField .fieldgroupField {
+	float: left;
+}
+
+.AlternativeFormField .AlternativeFormFieldSelectedValue {
+	margin-right: 10px;
+}
+
+.AlternativeFormField select {
+	width: 210px;
+}
+
+.AlternativeFormField input.text {
+	width: 210px;
+	margin-left: 10px;
+}
