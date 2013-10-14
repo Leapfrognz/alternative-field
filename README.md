@@ -1,5 +1,4 @@
-alternative-field
-=================
+# Silverstripe Alternative-field Module
 
 ## Introduction
 Simple dropdown field which displays a text field when 'Other' is selected. Great for Honorific selects.
