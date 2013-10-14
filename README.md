@@ -1,13 +1,18 @@
 alternative-field
 =================
 
-## Description
-Simple dropdown field which displays a text field when 'Other' is selected. Great for Honorifics selects.
+## Introduction
+Simple dropdown field which displays a text field when 'Other' is selected. Great for Honorific selects.
 
+
+## How to use
 Add the dropdown options to the _config/AlternativeFormField.yml file.
 
 You can also edit the empty string for the dropdown and the label for the 'other' field in the yml.
 
+
+## Requirements
+SilverStripe 3.0 or higher is required.
 
 ## Example
 ```php
