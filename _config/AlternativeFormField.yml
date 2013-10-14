@@ -6,3 +6,5 @@ AlternativeFormField:
     - Miss
     - Doctor
     - Other
+  empty_string: '-- Select --'
+  alternative_field_title: 'Please state:'
